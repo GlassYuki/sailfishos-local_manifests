@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project path="device/qcom/common"
+name="LineageOS/android_device_qcom_common"
+revision="lineage-15.1" />
+
+<project path="device/sony/common"
+name="LineageOS/android_device_sony_common"
+revision="lineage-15.1" />
+
+<project path="device/sony/dogo"
+name="LineageOS/android_device_sony_dogo"
+revision="lineage-15.1" />
+
+<project path="device/sony/fusion3-common"
+name="LineageOS/android_device_sony_fusion3-common"
+revision="lineage-15.1" />
+
+<project path="kernel/sony/apq8064"
+name="LineageOS/android_kernel_sony_apq8064"
+revision="lineage-15.1" />
+
+<project path="hardware/sony/DASH"
+name="LineageOS/android_hardware_sony_DASH"
+revision="lineage-15.1" />
+
+<project path="hardware/sony/thermanager"
+name="LineageOS/android_hardware_sony_thermanager"
+revision="lineage-15.1" />
+
+<project path="packages/resources/devicesettings"
+name="LineageOS/android_packages_resources_devicesettings"
+revision="lineage-15.1" />
+
+<project path="external/libhybris" 
+name="libhybris/libhybris" 
+revision="master" />
+
+</manifest>
